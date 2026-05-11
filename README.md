@@ -4,7 +4,7 @@ This repository contains the simulation environment and controller implementatio
 
 > **A Differential Steering Mechanism for Directional Adaptation and Self-Organized Locomotion under Decentralized Control in Legged Robots**
 
-The project presents a decentralized locomotion control framework with a Differential Adaptive Steering Technique (DAST) for directional adaptation in a stick insect-like robot.
+The project presents a decentralized locomotion control framework with a Differential Adaptive Steering Control (DAST) for directional adaptation in a stick insect-like robot.
 
 ---
 
